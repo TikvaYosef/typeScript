@@ -9,8 +9,10 @@ export const Student = () => {
 
     const [student, dispatch] = useReducer(StudentReducer, []);
 
+
     return (
         <div>
+       
             <button onClick={() => dispatch(StudentAction())}>click</button>
             <h1>
                 {

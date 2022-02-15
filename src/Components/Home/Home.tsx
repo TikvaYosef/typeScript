@@ -86,9 +86,11 @@ export const Home = () => {
     }
 
     
-    
 
-    
+
+
+
+
 
 
     return (
@@ -102,7 +104,7 @@ export const Home = () => {
             {/* {stam("tikva","vfjfj",15,"ffgctcj","gfhfh")} */}
             {bignum(4, 6, 10, 7)}
             {fh("tikva", 4, 7, 8)}
-            {gtfh("tikva","tikva","yakov","tikva")}
+            {gtfh("tikva", "tikva", "yakov", "tikva")}
 
 
         </div>
